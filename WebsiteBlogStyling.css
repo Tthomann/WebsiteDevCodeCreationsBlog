@@ -1,5 +1,8 @@
 body { 
     background: url(http://7-themes.com/data_images/out/65/6993802-black-world-map.jpg) repeat 0 0;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 	font-family: "Arial Verdana", Sans-serif;
     text-align: center;
 }
