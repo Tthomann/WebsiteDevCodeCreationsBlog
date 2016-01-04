@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<HTML>
+		<HEAD>
+		<TITLE></TITLE>
+		<SCRIPT LANGUAGE = "Javascript">
+		var object.onclick=function(){myScript};
+		</SCRIPT>
+		</HEAD>
+		</HTML>
